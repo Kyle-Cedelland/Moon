@@ -10,7 +10,9 @@ comments: false
 
 ## Kyle Cedelland
 Application Support Office - Gamer - Computer Enthusiast
+
 Melbourne, Australia
+
 S3793148 - S3793148@student.rmit.edu.au
 
 Hello! I'm Kyle

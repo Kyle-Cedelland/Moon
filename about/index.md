@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Kyle Cedelland
+title: Kyle Cedelland                   
 tags: [about, Jekyll, theme, moon]
 date: 13/03/2019
 comments: false
@@ -8,17 +8,15 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Kyle Cedelland
+Application Support Office - Gamer - Computer Enthusiast
+Melbourne, Australia
+S3793148 - S3793148@student.rmit.edu.au
+
+Hello! I'm Kyle
+
+
+
 
 ## Preview
 
